@@ -1,0 +1,37 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "2C1C0F1B223CD90F77D349FF219905B7BA9EC913",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "2C1C0F1B223CD90F77D349FF219905B7BA9EC913" : 9223372036854775807,
+    "0459B5339A2BDF858786023F4E1017F13EBDD11A" : 0,
+    "234F84BC7976F2D08154EC5564167935A6BBA349" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "322C284C-C32E-410A-A42D-99A88B8E2FB0",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "2C1C0F1B223CD90F77D349FF219905B7BA9EC913" : "Orgo%20Savior\/",
+    "0459B5339A2BDF858786023F4E1017F13EBDD11A" : "IosClient\/",
+    "234F84BC7976F2D08154EC5564167935A6BBA349" : "ARDemo\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "ARDemo",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "ARDemo.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "http:\/\/dzsj-dev.hold.founder.com\/git\/IosClient.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "0459B5339A2BDF858786023F4E1017F13EBDD11A"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/CharlyZhang\/Vuforia-iOS-Lib.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "234F84BC7976F2D08154EC5564167935A6BBA349"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/vanshady\/Vuforia-iOS-Lib.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "2C1C0F1B223CD90F77D349FF219905B7BA9EC913"
+    }
+  ]
+}

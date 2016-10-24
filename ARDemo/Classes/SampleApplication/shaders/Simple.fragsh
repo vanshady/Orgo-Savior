@@ -1,0 +1,18 @@
+/*==============================================================================
+ Copyright (c) 2012-2015 Qualcomm Connected Experiences, Inc.
+ All Rights Reserved.
+ ==============================================================================*/
+
+precision mediump float;
+varying vec2 texCoord;
+
+uniform sampler2D texSampler2D;
+uniform vec3 kd;
+uniform int hasTex;
+    
+    
+void main()
+{
+    if(hasTex == 1)  gl_FragColor = texture2D(texSampler2D, texCoord);
+    else             gl_FragColor = vec4(kd.x, kd.y, kd.z, 1.0);
+}

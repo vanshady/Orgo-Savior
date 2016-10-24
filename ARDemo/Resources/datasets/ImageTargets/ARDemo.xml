@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="heart" size="60.000000 62.694611" />
+    <ImageTarget name="mary" size="80.000000 72.727272" />
+    <ImageTarget name="Amenhotep" size="120.000000 213.440002" />
+    <ImageTarget name="cover" size="110.000000 140.443863" />
+    <ImageTarget name="trans-1-tert-butyl-3-methylcyclohexane" size="30.000000 24.077923" />
+    <ImageTarget name="simvastatin-zocor" size="30.000000 31.363636" />
+    <ImageTarget name="motrin" size="30.000000 13.398058" />
+    <ImageTarget name="lovastatin-Mevacor" size="30.000000 27.936508" />
+    <ImageTarget name="glucose" size="30.000000 24.038462" />
+    <ImageTarget name="cholesterol" size="30.000000 12.187500" />
+    <ImageTarget name="ansaid" size="30.000000 12.361111" />
+    <ImageTarget name="atorvastatin-lipitor" size="30.000000 22.786259" />
+    <ImageTarget name="1-2distributedcyclohexane" size="30.000000 15.053763" />
+    <ImageTarget name="another_trans-1-tert-butyl-3-methylcyclohexane" size="30.000000 20.213903" />
+    <ImageTarget name="monet" size="10.000000 14.140715" />
+    <ImageTarget name="Poster" size="50.000000 82.341003" />
+    <ImageTarget name="MolView" size="30.000000 30.964285" />
+    <ImageTarget name="chips" size="100.000000 70.000000" />
+  </Tracking>
+</QCARConfig>
